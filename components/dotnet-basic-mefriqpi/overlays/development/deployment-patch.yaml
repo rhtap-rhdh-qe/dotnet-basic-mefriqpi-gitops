@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/dotnet-basic-mefriqpi:github-dad180abdba326cce5107fb3d588c865fe50d560
+        - image: quay.io/rhtap_qe/dotnet-basic-mefriqpi:github-6c0bd07818d4032cce310274c1a38985845acd17
           name: container-image
